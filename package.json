@@ -21,7 +21,7 @@
     "cheerio": "",
 
     "namp": "",
-    "markdown_conrefs": "http://github.com/SayCV/markdown_conrefs",
+    "markdown_conrefs": "git+https://github.com/SayCV/markdown_conrefs_js.git",
     "functional-docs" : "",
 
     "argparse"    : "0.1.10",
