@@ -22,7 +22,7 @@
 
     "namp": "",
     "markdown_conrefs": "git+https://github.com/SayCV/markdown_conrefs_js.git",
-    "functional-docs" : "",
+    "functional-docs" : "git+https://github.com/SayCV/functional-docs.git",
 
     "argparse"    : "0.1.10",
     "minimatch"   : "",
